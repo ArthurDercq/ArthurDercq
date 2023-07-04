@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">A Data Science lover</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthurdercq" alt="arthurdercq" /></a> </p>
 
-- 👯 I’m looking to collaborate on **any data science related projects**
+- 👯 I’m looking to collaborate on **data science related projects**
 
-- 📫 How to reach me **arthur.dercq@skynet.be**
+- 📫 How to reach me?  **arthur.dercq@skynet.be**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/pslwj7yrifta9m1/Resume_Arthur_Dercq_Data_scientist_compressed.pdf?dl=0](https://www.dropbox.com/s/pslwj7yrifta9m1/Resume_Arthur_Dercq_Data_scientist_compressed.pdf?dl=0)
+- 📄 Know more about my experiences [https://www.dropbox.com/s/pslwj7yrifta9m1/Resume_Arthur_Dercq_Data_scientist_compressed.pdf?dl=0](https://www.dropbox.com/s/pslwj7yrifta9m1/Resume_Arthur_Dercq_Data_scientist_compressed.pdf?dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
